@@ -1,3 +1,3 @@
 # 2024OpenSSW\
-이동환
-mykeonweb@gmail.com
+# mykeonweb@gmail.com
+# 이동환
