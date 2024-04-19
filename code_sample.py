@@ -15,8 +15,13 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print('Hello, World!')
+<<<<<<< HEAD
 
 print('Sample2 Branch edit')
+
+print('브랜치2 수정과제')
+
+print('0419 merge과제')
 
 print('브랜치2 수정과제')
 
