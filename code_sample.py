@@ -20,3 +20,5 @@ print('Sample2 Branch edit')
 
 print('브랜치2 수정과제')
 
+print('브랜치2 수정과제')
+
